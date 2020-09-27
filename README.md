@@ -1,6 +1,6 @@
 # Hand Gesture Detection
 
-Simple Hand Gesture Detection System with OpenCV.
+Simple Hand Gesture Detection System to identify numbers with OpenCV.
 
 ## Done by:
 ### Akash Ramjyothi
